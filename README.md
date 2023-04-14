@@ -53,8 +53,3 @@ For a full view on all my public projects, you can access the same [here](https:
 
 - Generate content around target market interests like Health & Fitness, specifically to educated individuals, both employed and retired. 
 - Ensure online content is easily accessible and not placed in niche areas of the internet.
-
----
-
-# [Predicting Hospital Readmissions for Diabetic Patients](https://github.com/audreyanne96/Hult-MBAN-Projects/tree/main/R%20Programming/Diabetic%20Hospital%20Readmission%20Rates)
-
