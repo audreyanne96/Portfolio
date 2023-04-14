@@ -1,5 +1,8 @@
 # Audrey Arocha
+
 This portfolio is a summary of the analytics projects I have accomplished and contributed to while pursuing my Master's Degree in Business Analytics.
+
+For a full view on all my public projects, you can access the same [here](https://github.com/audreyanne96).
 
 ---
 
