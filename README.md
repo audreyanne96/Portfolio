@@ -3,7 +3,7 @@ A summary of analytics projects I have accomplished
 
 ---
 
-# Analytics Report on Expansion for European Sports Brand
+# [Analytics Report on Expansion for European Sports Brand](https://github.com/audreyanne96/Hult-MBAN-Projects/tree/main/Python/Expansion%20Analysis%20for%20European%20Sports%20Brand)
 - As part of the MBAN program in Hult, we were tasked to do an in-depth consumer analysis on a hypothetical European Sports brand.
 ### Business Problem and Scope
 - A European sports clothes company seeks to expand its market presence beyond Europe and Central Asia. The company aims to identify potential regions and markets for its products and the most effective product types to establish brand recognition in those areas.
