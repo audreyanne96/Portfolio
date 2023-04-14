@@ -7,7 +7,7 @@ For a full view on all my public projects, you can access the same [here](https:
 ---
 
 # [Analytics Report on Expansion for European Sports Brand](https://github.com/audreyanne96/Hult-MBAN-Projects/tree/main/Python/Expansion%20Analysis%20for%20European%20Sports%20Brand)
-- As part of the MBAN program in Hult, we were tasked to do an in-depth consumer analysis on a hypothetical European Sports brand.
+- As part of the MBAN program in Hult, we were tasked to do an in-depth consumer analysis on a hypothetical European Sports brand using Python.
 ### Business Problem and Scope
 - A European sports clothes company seeks to expand its market presence beyond Europe and Central Asia. The company aims to identify potential regions and markets for its products and the most effective product types to establish brand recognition in those areas.
 - **Regional Market Research** - The ideal region and country should have a sizeable and stable potential market. A specific jurisdiction within the region should be identified as a starting point.
@@ -29,7 +29,7 @@ For a full view on all my public projects, you can access the same [here](https:
 ---
 
 # [Analytics Report on Analyzing Customer Churn](https://github.com/audreyanne96/Hult-MBAN-Projects/tree/main/Python/Analyzing%20Customer%20Churn)
-- This was a team project we did in Hult's MBAN program. Specifically to use machine learning to predict customer churn of a telecom company.
+- This was a team project we did in Hult's MBAN program using Python. Specifically to use machine learning to predict customer churn of a telecom company.
 - Credit due goes to my other team members as well, namely: Pablo Guala, Maria Turbi, Artyom Blazko, Ayowole Delegab, and Cedric Sollie.
 ### Business Problem and Scope
 - Company wants to improve customer retention by increasing the number of customers who exceed the current average of 32 months.
