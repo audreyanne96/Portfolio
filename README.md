@@ -42,6 +42,6 @@ A summary of analytics projects I have accomplished
 
 - These were the top customer characteristics that were identified to have influenced churn the most.
 
-![](top_features1.png)
+![](images/top_features1.png)
 
 - Based on the above findings, the team further recommended to focus on customers with short tenure, offering more benefits for longer contract lengths, bundling multiple services, offering additional benefits to customers with lower credit scores, and promoting loyalty among mid-high income customers.
