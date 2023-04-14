@@ -35,8 +35,13 @@ A summary of analytics projects I have accomplished
 - Overall objective is to reduce customer churn and increase customer retention.
 ### Findings and insights
 - Developing the capability to predict customer churn is crucial to manage engagement terms and costs.
-- **Logistic Regression**, **Decision Tree**, and **Random Forest** models were tested. A tuned **Random Forest Classification** model achieved the highest F1-score of 0.90, AUC of 0.9271 and 94% accuracy in predicting churn. These were the top customer characteristics that were identified to have influenced churn the most.
+- **Logistic Regression**, **Decision Tree**, and **Random Forest** models were tested. A tuned **Random Forest Classification** model achieved the highest F1-score of 0.90, AUC of 0.9271 and 94% accuracy in predicting churn.
 
+![](images/Confusion_Matrix1.png)
+![](images/ROC.png)
 
+- These were the top customer characteristics that were identified to have influenced churn the most.
+
+![](top_features1.png)
 
 - Based on the above findings, the team further recommended to focus on customers with short tenure, offering more benefits for longer contract lengths, bundling multiple services, offering additional benefits to customers with lower credit scores, and promoting loyalty among mid-high income customers.
