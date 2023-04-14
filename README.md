@@ -25,4 +25,18 @@ A summary of analytics projects I have accomplished
 
 ---
 
-# Project 2
+# [Analytics Report on Analyzing Customer Churn](https://github.com/audreyanne96/Hult-MBAN-Projects/tree/main/Python/Analyzing%20Customer%20Churn)
+- This was a team project we did in Hult's MBAN program. Specifically to use machine learning to predict customer churn of a telecom company.
+- Credit due goes to my other team members as well, namely: Pablo Guala, Maria Turbi, Artyom Blazko, Ayowole Delegab, and Cedric Sollie.
+### Business Problem and Scope
+- Company wants to improve customer retention by increasing the number of customers who exceed the current average of 32 months.
+- Marketing Department wants to identify key factors that affect customer retention, such as personal characteristics, subscription type, and services offered.
+- Goal is to develop a model to predict churn, target customers more effectively, and develop strategies to capture the right product-market fit.
+- Overall objective is to reduce customer churn and increase customer retention.
+### Findings and insights
+- Developing the capability to predict customer churn is crucial to manage engagement terms and costs.
+- **Logistic Regression**, **Decision Tree**, and **Random Forest** models were tested. A tuned **Random Forest Classification** model achieved the highest F1-score of 0.90, AUC of 0.9271 and 94% accuracy in predicting churn. These were the top customer characteristics that were identified to have influenced churn the most.
+
+
+
+- Based on the above findings, the team further recommended to focus on customers with short tenure, offering more benefits for longer contract lengths, bundling multiple services, offering additional benefits to customers with lower credit scores, and promoting loyalty among mid-high income customers.
