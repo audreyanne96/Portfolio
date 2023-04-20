@@ -2,8 +2,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Audrey Arocha
-description: |-
-  A compilation of projects accomplished during the pursuit for a Master's in Business Analytics. 
-  
-  Email: audreyannearocha@yahoo.com 
-  LinkedIn: https://www.linkedin.com/in/audrey-arocha/
+description:
+  - A compilation of projects accomplished during the pursuit for a Master's in Business Analytics. 
+  - Email: audreyannearocha@yahoo.com 
+  - LinkedIn: https://www.linkedin.com/in/audrey-arocha/
