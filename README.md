@@ -23,7 +23,8 @@ This portfolio is a summary of the analytics projects I have accomplished and co
 ---
 
 # [Analytics Report on Analyzing Customer Churn](https://github.com/audreyanne96/Hult-MBAN-Projects/tree/main/Python/Analyzing%20Customer%20Churn)
-> - This was a team project and as such due credit goes to the following as well: Pablo Guala, Maria Turbi, Artyom Blazko, Ayowole Delegab, and Cedric Sollie.
+> This was a team project and as such due credit goes to the following as well: Pablo Guala, Maria Turbi, Artyom Blazko, Ayowole Delegab, and Cedric Sollie.
+
 - Marketing Department wants to identify key factors that affect customer retention, such as personal characteristics, subscription type, and services offered. Goal is to develop a model to predict churn, target customers more effectively, and develop strategies to capture the right product-market fit.
 - Developing the capability to predict customer churn is crucial to manage engagement terms and costs.
 - **Logistic Regression**, **Decision Tree**, and **Random Forest** models were tested. A tuned **Random Forest Classification** model achieved the highest F1-score of 0.90, AUC of 0.9271 and 94% accuracy in predicting churn.
