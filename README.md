@@ -1,11 +1,3 @@
-## Audrey Arocha
-
-**Cambridge, MA | audreyannearocha@yahoo.com | [LinkedIn](https://www.linkedin.com/in/audrey-arocha/) | [GitHub](https://github.com/audreyanne96)**
-
-This portfolio is a summary of the analytics projects I have accomplished and contributed to while pursuing my Master's in Business Analytics.
-
----
-
 # [Analytics Report on Expansion for European Sports Brand](https://github.com/audreyanne96/Hult-MBAN-Projects/tree/main/Python/Expansion%20Analysis%20for%20European%20Sports%20Brand)
 - A European sports clothes company seeks to expand its market presence beyond Europe and Central Asia. The company aims to identify potential regions and markets for its products and the most effective product types to establish brand recognition in those areas.
 - To identify the optimal regions, an analysis of *Leisure Time*, *Market Size*, and *Market Stability* were done using data from the World Bank. North America and the Middle East & North Africa were found most fitting, specifically US and Canada and UAE, respectively, as starting points.
