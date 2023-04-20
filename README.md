@@ -1,8 +1,8 @@
 # [Audrey Arocha](https://www.linkedin.com/in/audrey-arocha/)
 
-This portfolio is a summary of the analytics projects I have accomplished and contributed to while pursuing my Master's Degree in Business Analytics.
+**Cambridge, MA | audreyannearocha@yahoo.com | [LinkedIn](https://www.linkedin.com/in/audrey-arocha/) | [GitHub](https://github.com/audreyanne96)**
 
-For a full view on all my public projects, you can access the same [here](https://github.com/audreyanne96).
+This portfolio is a summary of the analytics projects I have accomplished and contributed to while pursuing my Master's in Business Analytics.
 
 ---
 
