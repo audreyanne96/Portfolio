@@ -1,3 +1,5 @@
+# Audrey Arocha
+
 This portfolio is a summary of the analytics projects I have accomplished and contributed to while pursuing my Master's Degree in Business Analytics.
 
 For a full view on all my public projects, you can access the same [here](https://github.com/audreyanne96).
@@ -6,9 +8,9 @@ For a full view on all my public projects, you can access the same [here](https:
 
 # [Analytics Report on Expansion for European Sports Brand](https://github.com/audreyanne96/Hult-MBAN-Projects/tree/main/Python/Expansion%20Analysis%20for%20European%20Sports%20Brand)
 - A European sports clothes company seeks to expand its market presence beyond Europe and Central Asia. The company aims to identify potential regions and markets for its products and the most effective product types to establish brand recognition in those areas.
-> - **Regional Market Research** - The ideal region and country should have a sizeable and stable potential market. A specific jurisdiction within the region should be identified as a starting point.
-> - **Product Strategy** - The company needs a distinct strategy to establish its brand in the target region, including identifying the type of products in demand or a gap in the local market that can be taken advantage of.
-- To identify the optimal regions, an analysis of *Leisure Time*, *Market Size*, and *Market Stability* were done. In the end, North America and the Middle East & North Africa were found most fitting. The United States and Canada are the optimal countries to start the expansion in North America, while the UAE is the optimal starting point in the Middle East & North Africa.
+- To identify the optimal regions, an analysis of *Leisure Time*, *Market Size*, and *Market Stability* were done using data from the World Bank. North America and the Middle East & North Africa were found most fitting, specifically US and Canada and UAE, respectively, as starting points.
+
+<img src="images/overallanalysis-regional2.png" width="300" height="200">
 
 ![](images/overallanalysis-regional2.png)
 
