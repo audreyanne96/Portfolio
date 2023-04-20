@@ -1,4 +1,4 @@
-# Audrey Arocha
+# [Audrey Arocha](https://www.linkedin.com/in/audrey-arocha/)
 
 This portfolio is a summary of the analytics projects I have accomplished and contributed to while pursuing my Master's Degree in Business Analytics.
 
@@ -10,17 +10,15 @@ For a full view on all my public projects, you can access the same [here](https:
 - A European sports clothes company seeks to expand its market presence beyond Europe and Central Asia. The company aims to identify potential regions and markets for its products and the most effective product types to establish brand recognition in those areas.
 - To identify the optimal regions, an analysis of *Leisure Time*, *Market Size*, and *Market Stability* were done using data from the World Bank. North America and the Middle East & North Africa were found most fitting, specifically US and Canada and UAE, respectively, as starting points.
 
-<img src="images/overallanalysis-regional2.png" width="300" height="200">
-
-![](images/overallanalysis-regional2.png)
+<img src="images/overallanalysis-regional2.png" height="300">
 
 - For the North American market, California was the state with the most activity. Here, the most in-demand products are sports apparel, fan apparel for various sports teams, and golf apparel for women. The company should position its prices similarly to its competitors in the market.
 
-![](images/uscademand.png)
+<img src="images/uscademand.png" height="300">
 
 - For the Middle East & North Africa market, the company should establish good relationships with existing platforms such as noon and Namshi, and focus on filling the gap for cotton/cotton blend sports and leisure apparel for women. The company should also position its prices similarly to its competitors in the market.
 
-![](images/meuaedemand.png)
+<img src="images/meuaedemand.png" height="300">
 
 ---
 
