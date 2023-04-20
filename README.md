@@ -16,11 +16,11 @@ This portfolio is a summary of the analytics projects I have accomplished and co
 
 - For the North American market, California was the state with the most activity. Here, the most in-demand products are sports apparel, fan apparel for various sports teams, and golf apparel for women. The company should position its prices similarly to its competitors in the market.
 
-<img src="images/uscademand.png" height="300">
+<img src="images/uscademand.png" height="400">
 
 - For the Middle East & North Africa market, the company should establish good relationships with existing platforms such as noon and Namshi, and focus on filling the gap for cotton/cotton blend sports and leisure apparel for women. The company should also position its prices similarly to its competitors in the market.
 
-<img src="images/meuaedemand.png" height="300">
+<img src="images/meuaedemand.png" height="400">
 
 ---
 
@@ -30,12 +30,11 @@ This portfolio is a summary of the analytics projects I have accomplished and co
 - Developing the capability to predict customer churn is crucial to manage engagement terms and costs.
 - **Logistic Regression**, **Decision Tree**, and **Random Forest** models were tested. A tuned **Random Forest Classification** model achieved the highest F1-score of 0.90, AUC of 0.9271 and 94% accuracy in predicting churn.
 
-![](images/Confusion_Matrix1.png)
-![](images/ROC.png)
+<img src="images/Confusion_Matrix1.png" height="300"> <img src="images/ROC.png" height="300"> 
 
 - These were the top customer characteristics that were identified to have influenced churn the most.
 
-![](images/top_features1.png)
+<img src="images/top_features1.png" height="300">
 
 - Based on the above findings, the team further recommended to focus on customers with short tenure, offering more benefits for longer contract lengths, bundling multiple services, offering additional benefits to customers with lower credit scores, and promoting loyalty among mid-high income customers.
 
@@ -45,11 +44,11 @@ This portfolio is a summary of the analytics projects I have accomplished and co
 - Senior management has requested an in-depth exploratory analysis of the customer base of Bedding, Bathing and Yonder (BBY) to identify micro-segments and personas for the loyalty program.
 - Consider increasing pricing to cater to upper middle-class market and essentially create an expensive and luxurious store experience while maintaining convenience.
 
-![](images/networth.png)
+<img src="images/networth.png" height="300">
 
 - Ensure products and marketing efforts cater to senior citizens and that physical stores have accessibility features for the elderly.
 
-![](images/agedist.png)
+<img src="images/agedist.png" height="300">
 
 - Generate content around target market interests like Health & Fitness, specifically to educated individuals, both employed and retired. 
 - Ensure online content is easily accessible and not placed in niche areas of the internet.
