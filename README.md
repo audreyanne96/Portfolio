@@ -4,12 +4,12 @@
 - Aggregate data on a study done in Harvard among staff, students and faculty was used to build interactive dashboards and a storyline in Tableau to better visualize the results.
 - Among the highlighted findings were that Nonbinary or Bisexual individuals in the university did not feel like they belong, which may have impacted other aspects of their life like their ability to be authentic.
 
-<img src="images/belong.png" height="300">
+<img src="images/belong.png" height="310">
 <img src="images/exp.png" height="300">
 
 - This may have also led to such groups feelings unsafe in the university.
 
-<img src="images/safety.png" height="300">
+<img src="images/safety.png" height="310">
 
 ---
 
