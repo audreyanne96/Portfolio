@@ -1,4 +1,4 @@
-# [Tableau - Harvard Diversity and Belonging Analysis](https://public.tableau.com/views/A2Presentation-Final/Presentation?:language=en-US&:display_count=n&:origin=viz_share_link)
+# [Harvard Diversity Inclusion and Belonging Analysis](https://public.tableau.com/views/A2Presentation-Final/Presentation?:language=en-US&:display_count=n&:origin=viz_share_link)
 > This was a team project and as such due credit goes to the following as well: Daniel Evenschor, Hafez Bajammal, Pablo Guala, Polina Afanasyeva, Priscilla Chacur
 
 - Aggregate data on a study done in Harvard among staff, students and faculty was used to build interactive dashboards and a storyline in Tableau to better visualize the results.
