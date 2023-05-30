@@ -2,4 +2,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Audrey Arocha
-description: "A compilation of projects accomplished during the pursuit for a Master's in Business Analytics.<br>Email: audreyannearocha@yahoo.com<br>LinkedIn: <a href='https://www.linkedin.com/in/audrey-arocha/'>https://www.linkedin.com/in/audrey-arocha/</a><br>Tableau: <a href='https://public.tableau.com/app/profile/audrey.anne.arocha'>https://public.tableau.com/app/profile/audrey.anne.arocha</a>"
+description: "A compilation of projects accomplished during the pursuit for a Master's in Business Analytics.<br><br>Email: audreyannearocha@yahoo.com<br><a href='https://www.linkedin.com/in/audrey-arocha/'>LinkedIn</a> | <a href='https://public.tableau.com/app/profile/audrey.anne.arocha'>Tableau Public </a>"
