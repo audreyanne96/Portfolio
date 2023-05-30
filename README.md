@@ -1,6 +1,15 @@
-# Tableau - Harvard Diversity and Belonging Analysis
-> This was a team project and as such due credit goes to the following as well: Daniel Evenschor, Polina.
+# [Tableau - Harvard Diversity and Belonging Analysis](https://public.tableau.com/views/A2Presentation-Final/Presentation?:language=en-US&:display_count=n&:origin=viz_share_link)
+> This was a team project and as such due credit goes to the following as well: Daniel Evenschor, Hafez Bajammal, Pablo Guala, Polina Afanasyeva, Priscilla Chacur
 
+- Aggregate data on a study done in Harvard among staff, students and faculty was used to build interactive dashboards and a storyline in Tableau to better visualize the results.
+- Among the highlighted findings were that Nonbinary or Bisexual individuals in the university did not feel like they belong, which may have impacted other aspects of their life like their ability to be authentic.
+
+<img src="images/belong.png" height="300">
+<img src="images/exp.png" height="300">
+
+- This may have also led to such groups feelings unsafe in the university.
+
+<img src="images/safety.png" height="300">
 
 ---
 
