@@ -1,5 +1,5 @@
 # Portfolio
----
+
 # [Google Fiber Business Intelligence Project](https://public.tableau.com/views/GoogleFiberDashboard_16873889664000/Presentation?:language=en-US&:display_count=n&:origin=viz_share_link)
 > This project was part of the [Google Business Intelligence Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/7W8QFGV99NC7) with Coursera, specifically utilizing Big Query to exract data and Tableau for visualization. This end-of-course project was designed to apply skills in a workplace scenario from project planning to execution.
 
