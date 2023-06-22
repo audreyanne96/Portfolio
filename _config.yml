@@ -2,4 +2,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Audrey Arocha
-description: "A compilation of projects accomplished during the pursuit for a Master's in Business Analytics.<br><br>Email: audreyannearocha@yahoo.com<br><a href='https://www.linkedin.com/in/audrey-arocha/'>LinkedIn</a> | <a href='https://public.tableau.com/app/profile/audrey.anne.arocha'>Tableau Public </a>"
+description: "This portfolio showcases a collection of my top projects, highlighting my skills and expertise gained during my Master's in Business Analytics and other ventures. With a strong passion for the convergence of education and technology, I strive to leverage data-driven insights to drive impactful decision-making. Explore my portfolio to see how I apply analytical techniques to solve complex business challenges and unlock valuable opportunities in today's digital landscape.<br><br>Email: audreyannearocha@yahoo.com<br><a href='https://www.linkedin.com/in/audrey-arocha/'>LinkedIn</a> | <a href='https://public.tableau.com/app/profile/audrey.anne.arocha'>Tableau Public </a>"
